@@ -1,4 +1,6 @@
 package com.example.monamourpourtoujours.messengerapplication;
 
-public class MainActivity {
+import android.app.Activity;
+
+public class MainActivity extends Activity {
 }
