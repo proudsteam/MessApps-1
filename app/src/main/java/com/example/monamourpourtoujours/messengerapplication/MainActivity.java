@@ -9,6 +9,5 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         Jenya;
         Hello;
-        jkjk;
     }
 }
